@@ -7,13 +7,13 @@
 <h3 align="center">🚀 A Passionate Fullstack Developer from Bihar, India</h3>
 
 <p align="center">
-  <a href="https://iamdevraj.me" target="_blank">
+  <a href="https://blkbrdcl.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Website-%2300C7B7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/imdevraj069" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@iamdevraj.me">
+  <a href="mailto:devraj@blkbrdcl.xyz">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://iamdevraj.me/resume" target="_blank">
@@ -29,9 +29,9 @@
 - 🧠 Learning and building in **React | Node | Python | MongoDB**
 - 🎯 Focused on clean architecture and user experience
 - 💬 Ask me anything about **JavaScript, APIs, debugging, and deployment**
-- 📝 Writing weekly at [blogs.iamdevraj.me](https://blogs.iamdevraj.me)
-- 🎥 Recent project: [movies.iamdevraj.me](https://movies.iamdevraj.me)
-- 🚀 Portfolio: [portfolio.iamdevraj.me](https://portfolio.iamdevraj.me)
+- 📝 Writing weekly at [blogs.blkbrdcl.xyz](https://blogs.blkbrdcl.xyz)
+- 🎥 Recent project: [movies.blkbrdcl.xyz](https://movies.blkbrdcl.xyz)
+- 🚀 Portfolio: [portfolio.blkbrdcl.xyz](https://portfolio.blkbrdcl.xyz/)
 
 ---
 
