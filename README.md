@@ -1,77 +1,118 @@
-<!-- Banner / Intro -->
+<!-- Hero Section -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Devraj+%F0%9F%91%8B;Fullstack+Web+Developer;Tech+Enthusiast+%E2%9C%A8;Let's+build+awesome+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Devraj+%F0%9F%91%8B;Fullstack+Developer+%7C+System+Designer;Backend+%26+Infrastructure+Enthusiast;Building+Scalable+Digital+Experiences+%F0%9F%9A%80" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00adb5;">Devraj</span></h1>
-<h3 align="center">🚀 A Passionate Fullstack Developer from Bihar, India</h3>
+<h1 align="center">Devraj</h1>
 
-<p align="center">
-  <a href="https://blkbrdcl.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%2300C7B7.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/imdevraj069" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:devraj@blkbrdcl.xyz">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://iamdevraj.me/resume" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%2312100E.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+<h3 align="center">
+⚡ Fullstack Developer • Backend Engineer • System Architecture Explorer
+</h3>
+
+---
+
+## 🌌 About Me
+
+- 🧠 Passionate about building scalable backend systems and modern web platforms
+- ⚙️ Exploring distributed systems, DevOps, cloud infrastructure, and microservices
+- 🚀 Currently working with modern frontend ecosystems and backend architectures
+- 🏗️ Interested in clean architecture, infrastructure automation, and developer experience
+- 🔍 Learning deeply through building real-world systems instead of isolated tutorials
+- 💬 Love discussing JavaScript, Node.js, system design, APIs, Docker, Linux, and infrastructure
+
+---
+
+## 🚀 Current Focus
+
+```txt
+Microservices • Infrastructure Engineering • AI-integrated Platforms
+Containerized Systems • Distributed Architecture • Developer Platforms
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,bash" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🌱 Currently deep-diving into **advanced frontend & backend frameworks**
-- 🧠 Learning and building in **React | Node | Python | MongoDB**
-- 🎯 Focused on clean architecture and user experience
-- 💬 Ask me anything about **JavaScript, APIs, debugging, and deployment**
-- 📝 Writing weekly at [blogs.blkbrdcl.xyz](https://blogs.blkbrdcl.xyz)
-- 🎥 Recent project: [movies.blkbrdcl.xyz](https://movies.blkbrdcl.xyz)
-- 🚀 Portfolio: [portfolio.blkbrdcl.xyz](https://portfolio.blkbrdcl.xyz/)
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,arduino,html,css,tailwind,nginx,linux,bash,git,github,vscode,vercel,netlify" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdevraj069&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevraj069&layout=compact&theme=radical&hide_border=true" height="150"/>
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdevraj069&theme=radical&hide_border=true" />
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 </p>
 
----
+### 🧰 DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,cloudflare" />
+</p>
 
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imdevraj069&theme=algolia&row=1&column=7" />
+### 🧠 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=kubernetes,rabbitmq,aws" />
 </p>
 
 ---
 
-### 💡 Fun Fact
+## 🌐 Connect With Me
 
-> I don’t just **write code**, I **craft solutions**.  
-> I CAN DEBUG YOUR HAPPINESS 😄
+<p align="center">
+
+<a href="https://imdevraj.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/imdevraj069" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:devraj@imdevraj.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imdevraj069&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevraj069&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdevraj069&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imdevraj069&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+```txt
+I enjoy transforming ideas into systems that are scalable,
+maintainable, and built with purpose.
+```
 
 ---
 
