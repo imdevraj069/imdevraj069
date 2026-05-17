@@ -1,97 +1,139 @@
-<!-- Hero Section -->
+<!-- ═══════════════════════════════════════ -->
+<!--               HERO SECTION             -->
+<!-- ═══════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Devraj+%F0%9F%91%8B;Fullstack+Developer+%7C+System+Designer;Backend+%26+Infrastructure+Enthusiast;Building+Scalable+Digital+Experiences+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Devraj+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+Engineer;Building+Scalable+Platforms+%F0%9F%9A%80;System+Design+%7C+DevOps+%7C+Microservices;Turning+Ideas+Into+Production+Systems+⚡" />
 </p>
 
-<h1 align="center">Devraj</h1>
+<h1 align="center">
+  ⚡ Devraj ⚡
+</h1>
 
 <h3 align="center">
-⚡ Fullstack Developer • Backend Engineer • System Architecture Explorer
+  Fullstack Developer • Backend Engineer • Infrastructure Explorer
 </h3>
 
----
-
-## 🌌 About Me
-
-- 🧠 Passionate about building scalable backend systems and modern web platforms
-- ⚙️ Exploring distributed systems, DevOps, cloud infrastructure, and microservices
-- 🚀 Currently working with modern frontend ecosystems and backend architectures
-- 🏗️ Interested in clean architecture, infrastructure automation, and developer experience
-- 🔍 Learning deeply through building real-world systems instead of isolated tutorials
-- 💬 Love discussing JavaScript, Node.js, system design, APIs, Docker, Linux, and infrastructure
+<p align="center">
+  Passionate about scalable systems, modern web platforms, infrastructure engineering, and developer experience.
+</p>
 
 ---
 
-## 🚀 Current Focus
+<!-- ═══════════════════════════════════════ -->
+<!--               BADGES                   -->
+<!-- ═══════════════════════════════════════ -->
 
-```txt
-Microservices • Infrastructure Engineering • AI-integrated Platforms
-Containerized Systems • Distributed Architecture • Developer Platforms
+<p align="center">
+
+  <a href="https://imdevraj.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/iamdevraj069/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:devraj@imdevraj.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/imdevraj069" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+# 🌌 About Me
+
+```yaml
+name: Devraj
+role: Fullstack Developer & Backend Engineer
+location: India 🇮🇳
+
+focus:
+  - Scalable Backend Systems
+  - Infrastructure & DevOps
+  - Distributed Systems
+  - Developer Platforms
+  - Microservices Architecture
+
+currently_learning:
+  - Kubernetes
+  - RabbitMQ
+  - Infrastructure Automation
+  - AI Integrated Systems
+
+philosophy:
+  "Build systems that survive scale, chaos, and late-night debugging."
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ What I Love Building
+
+<div align="center">
+
+| 🚀 Platforms | ⚙️ Infrastructure | 🧠 Systems |
+|---|---|---|
+| Fullstack Apps | Docker Ecosystems | Distributed Architectures |
+| Dashboards | Cloudflare + Nginx | Async Processing |
+| APIs | CI/CD Pipelines | Scalable Backends |
+| Admin Panels | Self-hosted Services | Event-driven Systems |
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,bash" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,bash" />
+
+---
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+
+---
 
 ### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+
+---
 
 ### 🧰 DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,cloudflare" />
-</p>
 
-### 🧠 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,rabbitmq,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,cloudflare,aws" />
 
 ---
 
-## 🌐 Connect With Me
+### 🧠 Exploring
+
+<img src="https://skillicons.dev/icons?i=kubernetes,rabbitmq,prometheus,grafana" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imdevraj069&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<a href="https://imdevraj.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/imdevraj069" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:devraj@imdevraj.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevraj069&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imdevraj069&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevraj069&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdevraj069&theme=tokyonight&hide_border=true" />
@@ -99,7 +141,7 @@ Containerized Systems • Distributed Architecture • Developer Platforms
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievement Showcase
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imdevraj069&theme=algolia&no-frame=true&row=1&column=7" />
@@ -107,15 +149,23 @@ Containerized Systems • Distributed Architecture • Developer Platforms
 
 ---
 
-## ⚡ Philosophy
+# 🧠 Current Mission
 
 ```txt
-I enjoy transforming ideas into systems that are scalable,
-maintainable, and built with purpose.
+Designing and building scalable systems with modern infrastructure,
+microservices, automation, and AI-powered workflows.
 ```
 
 ---
 
+# ⚡ Engineering Mindset
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imdevraj069&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
